@@ -5,6 +5,5 @@ npm start
 site will be open in http://localhost:3000/
 
 1. call fackdata via using fetch
-2. This site use to collect donation for climate changing
-3. sum all amount of donation money
-4. click the button immediately show the img and name who donate money
+2. This site use to collect donation
+4. click the button immediately show the img and name who donate mone
