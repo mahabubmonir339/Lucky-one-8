@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Midoriya Izuku",
+        "id": 1,
+        "donate": 7000,
+        "img": "https://cdn.vox-cdn.com/thumbor/KPObHvr13JWLwf-zl-6TQFCXO_E=/0x0:3344x1884/1200x800/filters:focal(1429x480:1963x1014)/cdn.vox-cdn.com/uploads/chorus_image/image/69014563/My_HEro_Academia_Season_5_New_Trailer_Deku_Screenshot.0.png",
+        "alias": "Deku",
+        "age": 14,
+        "height": "166 cm",
+        "quirk": "One For All"
+    },
+    {
+        "name": "Todoroki Shoto",
+        "id": 2,
+        "donate": 89999,
+        "img": "https://i.ytimg.com/vi/rgmWXBx83M8/maxresdefault.jpg",
+        "alias": "Shoto",
+        "age": 13,
+        "height": "176 cm",
+        "quirk": "Half-Cold Half-Hot"
+    },
+    {
+        "name": "Bakugo Katsuki",
+        "id": 3,
+        "donate": 7001,
+        "img": "https://horapiko.com/wp-content/uploads/2021/06/Katsuki-Bakugo-My-Hero-Academia.jpg",
+        "alias": "Kacchan",
+        "age": 14,
+        "height": "172 cm",
+        "quirk": "Explosion"
+    },
+    {
+        "name": "Uraraka Ochako",
+        "id": 4,
+        "donate": 2000,
+        "img": "https://xingbaoblock.com/wp-content/uploads/2021/02/53.jpg",
+        "alias": "Uravity",
+        "age": "15",
+        "height": "156 cm",
+        "quirk": "Zero Gravity"
+    },
+    {
+        "name": "Tenya Iida",
+        "id": 5,
+        "donate": 8000,
+        "img": "https://cdn.videogamesblogger.com/wp-content/uploads/2018/02/My-Hero-Academia-One%E2%80%99s-Justice-Tenya-Iida.jpg",
+        "alias": "Engine",
+        "age": 15,
+        "height": "179 cm",
+        "quirk": "Turbo Hero: Ingenium"
+    },
+    {
+        "name": "Tokoyami Fumikage",
+        "id": 6,
+        "donate": 2000,
+        "img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/09/My-Hero-Academia-Fumikage-Tokoyami-Dark-Shadow.jpg",
+        "alias": "Tsukuyomi",
+        "age": 15,
+        "height": "158 cm",
+        "quirk": "Dark Shadow"
+    },
+    {
+        "name": "Asui Tsuyu",
+        "id": 7,
+        "donate": 96734,
+        "img": "https://64.media.tumblr.com/881f5d4a23019b94a4f9ecc23904448b/tumblr_poy8wdRAqH1v67o1yo1_1280.png",
+        "alias": "Froppy ",
+        "age": 15,
+        "height": "150 cm",
+        "quirk": "Frog"
+    },
+    {
+        "name": "Kaminari Denki",
+        "id": 8,
+        "donate": 67788,
+        "img": "https://w0.peakpx.com/wallpaper/6/850/HD-wallpaper-denki-kaminari-my-hero-academia-stun-gun-hero-chargebolt-boku-no-hero-academia-manga-kaminari-denki.jpg",
+        "alias": "Chargebolt",
+        "age": 15,
+        "height": "168 cm",
+        "quirk": "Electrification"
+    },
+    {
+        "name": "Mezou Shouji",
+        "id": 9,
+        "donate": 6578893,
+        "img": "https://freeaddon.com/wp-content/uploads/2017/11/boku-no-hero-academia-13.jpg",
+        "alias": "Tentacole",
+        "age": 15,
+        "height": "187 cm",
+        "quirk": "Dupli-Arms"
+    },
+    {
+        "name": "Hagakure Tōru",
+        "id": 9,
+        "donate": 6578893,
+        "img": "https://sportshub.cbsistatic.com/i/2021/08/09/1d0fa6ad-6763-48d6-afa1-5531bfef7e4a/mha-toru-1273313.jpg",
+        "alias": "Invisible Girl",
+        "age": 15,
+        "height": "152 cm",
+        "quirk": "Invisibility"
+    },
+    {
+        "name": "Yaoyorozu Momo",
+        "id": 9,
+        "donate": 6578893,
+        "img": "https://i.ytimg.com/vi/cZpVdKMLxnM/maxresdefault.jpg",
+        "alias": "Creati",
+        "age": 15,
+        "height": "173 cm",
+        "quirk": "Creation"
+    },
+    {
+        "name": "Eijiro Kirishima",
+        "id": 9,
+        "donate": 6578893,
+        "img": "https://besthqwallpapers.com/Uploads/12-1-2020/118362/thumb2-eijiro-kirishima-my-hero-academia-fan-art-boku-no-hero-academia-sturdy-hero-red-riot.jpg",
+        "alias": "Red Riot",
+        "age": 15,
+        "height": "170 cm",
+        "quirk": "Hardening"
+    }
+]

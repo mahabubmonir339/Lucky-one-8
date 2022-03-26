@@ -1,0 +1,7 @@
+.cart-area{
+    padding: 30px 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border:2px solid hsl(280, 100%, 50%) ;
+}
