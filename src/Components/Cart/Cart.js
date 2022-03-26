@@ -8,7 +8,7 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 const Cart = (props) => {
     //console.log(props.carts)
 
-    const { carts } = props
+    const { carts } = props;
 
 
     // total donation
@@ -21,8 +21,8 @@ const Cart = (props) => {
     return (
         <div>
             <div className="cart-area">
-                <h3> <FontAwesomeIcon icon={faShoppingCart} />  Doner : {props.carts.length} </h3>
-                <h5>Total Donation: $ {total}</h5>
+                <h3> <FontAwesomeIcon icon={faShoppingCart} />  Doner Price : {props.carts.length} </h3>
+                <h5>Total Donation Price: $ {total}</h5>
 
             </div>
 
