@@ -12,7 +12,7 @@ const Cart = (props) => {
 
 
     // total donation
-    let total = 1;
+    let total = 0;
     for (const price of carts) {
 
         total = total + price.donate;
