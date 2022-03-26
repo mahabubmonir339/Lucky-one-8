@@ -21,7 +21,7 @@ const Donor = (props) => {
             <h6>Quirk : {quirk}</h6>
             <h6>Age: {age}</h6>
             <h6>Height: {height}</h6>
-            <h6>Donation : $ {donate}</h6>
+            <h6>Donation Price: $ {donate}</h6>
 
             <button onClick={() => props.countDonor(props.donor)} className="btn btn-danger"> <i className="fas fa-donate btn-icon"></i> <FontAwesomeIcon icon={faShoppingCart} /> Donate</button>
           </div>
